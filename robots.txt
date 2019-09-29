@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shooghupu.johnchappell.net/sitemap.xml
